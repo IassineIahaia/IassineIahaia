@@ -25,20 +25,11 @@
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
+### 🎨 Animated SVG - Moving Block
 
-### 🌟 My Most Starred Repositories
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IassineIahaia&layout=compact&theme=radical)](https://github.com/IassineIahaia)
-
----
-
-### 📫 How to Reach Me
-
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/258842800063)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](your-instagram-link)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-link)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-✨ **Let’s connect and collaborate!**
+```html
+<svg width="100" height="100">
+  <rect x="0" y="0" width="50" height="50" fill="blue">
+    <animate attributeName="x" from="0" to="50" dur="1s" repeatCount="indefinite" />
+  </rect>
+</svg>
