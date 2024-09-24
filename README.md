@@ -3,7 +3,6 @@
 
 🚀 **Passionate about technology, education, and changing lives through programming.**
 
-### 📊 GitHub Stats
 
 ![Iassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=IassineIahaia&show_icons=true&theme=radical)
 
