@@ -6,13 +6,13 @@
 
 | Iassine Iahaia's GitHub Stats | Stats |
 |-------------------------------|-------|
-| ⭐ **Total Stars Earned**:      | `Your stars count`  |
+| ⭐ **Total Stars Earned**:      | `1`                 |
 | 📜 **Total Commits (2024)**:    | `151`               |
 | 🛠️ **Total PRs**:               | `0`                 |
 | 🐛 **Total Issues**:            | `0`                 |
 | 🌟 **Contributed to (last year)**: | `0`               |
 
-![Iassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Iassine's GitHub stats](https://github-readme-stats.vercel.app/api?username=IassineIahaia&show_icons=true&theme=radical)
 
 ### 🔧 My Skills
 
@@ -29,13 +29,14 @@
 
 ### 🌟 Most Starred Repositories
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/YourUsername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IassineIahaia&layout=compact&theme=radical)](https://github.com/IassineIahaia)
 
 ---
 
 ### 📫 How to reach me:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](your-whatsapp-link)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](+258842800063)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](your-instagram-link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-link)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
 
