@@ -9,7 +9,7 @@
 ### 🔧 My Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,sass,php,python,electron,wordpress,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,sass,php,python,electron,wordpress,javascript,typescript" />
 </div>
 
 <h1 align="center">
