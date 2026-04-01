@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+My+name+is+Iassine+Iahaia!" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lassinelahaia&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+# Hi there, I'm Iassine Iahaia! 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Passionate+about+Education;Building+for+Mozambique+%F0%9F%87%B2%F0%9F%87%BF" alt="Typing SVG" />
+
 </div>
 
 ---
@@ -13,8 +13,9 @@
 ---
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lassinelahaia&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lassinelahaia&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=IassineIahaia&theme=radical&hide_border=true" alt="GitHub Streak" width="400"/>
+
 </div>
 
 ---
@@ -28,5 +29,15 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+your+attention!;" />
+
+<img src="https://komarev.com/ghpvc/?username=IassineIahaia&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thank+you+for+your+attention!+%F0%9F%99%8F" alt="Typing SVG" />
+
 </div>
