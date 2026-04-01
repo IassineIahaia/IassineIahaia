@@ -8,10 +8,6 @@
 
 ---
 
-🚀 **Passionate about technology, education, and changing lives through programming.**
-
----
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=IassineIahaia&theme=radical&hide_border=true" alt="GitHub Streak" width="400"/>
